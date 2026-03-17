@@ -6,6 +6,40 @@
   },
   "entries": [
     {
+      "id": "20260317-210032-sa6o",
+      "title": "Dtraze, Mesmerizing Roman",
+      "commanders": [
+        "Dtraze",
+        "Mesmerizing Roman"
+      ],
+      "dateStart": "2026-03-17T13:00:32.000Z",
+      "dateEnd": "2026-03-17T14:44:43.000Z",
+      "dateLabel": "3/17/2026, 9:00:32 PM - 3/17/2026, 10:44:43 PM",
+      "url": "https://vasheruu.github.io/WvW/?report=20260317-210032-sa6o",
+      "summary": {
+        "borderlandsPct": 0.6190476190476191,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 9,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 8,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 4,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 40,
+        "avgEnemySize": 50
+      }
+    },
+    {
       "id": "20260316-210019-a3si",
       "title": "Dtraze, Mesmerizing Roman",
       "commanders": [
