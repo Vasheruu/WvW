@@ -1,0 +1,38 @@
+{
+  "siteTheme": {
+    "ui": "classic",
+    "paletteId": "Bubblegum",
+    "kineticFont": "default"
+  },
+  "entries": [
+    {
+      "id": "20260316-210019-a3si",
+      "title": "Dtraze, Mesmerizing Roman",
+      "commanders": [
+        "Dtraze",
+        "Mesmerizing Roman"
+      ],
+      "dateStart": "2026-03-16T13:00:19.000Z",
+      "dateEnd": "2026-03-16T14:34:50.000Z",
+      "dateLabel": "3/16/2026, 9:00:19 PM - 3/16/2026, 10:34:50 PM",
+      "url": "https://vasheruu.github.io/WvW/?report=20260316-210019-a3si",
+      "summary": {
+        "borderlandsPct": 0.2,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 16,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 4,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 35,
+        "avgEnemySize": 50
+      }
+    }
+  ]
+}
