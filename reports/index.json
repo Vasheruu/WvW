@@ -6,6 +6,29 @@
   },
   "entries": [
     {
+      "id": "20260318-205215-v0xt",
+      "title": "Mesmerizing Roman",
+      "commanders": [
+        "Mesmerizing Roman"
+      ],
+      "dateStart": "2026-03-18T12:52:15.000Z",
+      "dateEnd": "2026-03-18T13:43:16.000Z",
+      "dateLabel": "3/18/2026, 8:52:15 PM - 3/18/2026, 9:43:16 PM",
+      "url": "https://vasheruu.github.io/WvW/?report=20260318-205215-v0xt",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 19,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 34,
+        "avgEnemySize": 41
+      }
+    },
+    {
       "id": "20260317-210032-sa6o",
       "title": "Dtraze, Mesmerizing Roman",
       "commanders": [
