@@ -6,6 +6,36 @@
   },
   "entries": [
     {
+      "id": "20260322-203210-hzxq",
+      "title": "Deathtrancer, Dtraze, Mesmerizing Roman",
+      "commanders": [
+        "Deathtrancer",
+        "Dtraze",
+        "Mesmerizing Roman"
+      ],
+      "dateStart": "2026-03-22T12:32:10.000Z",
+      "dateEnd": "2026-03-22T14:41:54.000Z",
+      "dateLabel": "3/22/2026, 8:32:10 PM - 3/22/2026, 10:41:54 PM",
+      "url": "https://vasheruu.github.io/WvW/?report=20260322-203210-hzxq",
+      "summary": {
+        "borderlandsPct": 0.03225806451612903,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 30,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 1,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 36,
+        "avgEnemySize": 42
+      }
+    },
+    {
       "id": "20260319-210515-nmz6",
       "title": "Dtraze",
       "commanders": [
