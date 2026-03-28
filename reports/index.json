@@ -1,10 +1,30 @@
 {
-  "siteTheme": {
-    "ui": "classic",
-    "paletteId": "Bubblegum",
-    "kineticFont": "default"
-  },
+  "colorPalette": "electric-blue",
+  "glassSurfaces": false,
   "entries": [
+    {
+      "id": "20260328-205120-b43v",
+      "title": "Dtraze",
+      "commanders": [
+        "Dtraze"
+      ],
+      "dateStart": "2026-03-28T12:51:20.000Z",
+      "dateEnd": "2026-03-28T14:33:00.000Z",
+      "dateLabel": "3/28/2026, 8:51:20 PM - 3/28/2026, 10:33:00 PM",
+      "url": "https://Vasheruu.github.io/WvW/?report=20260328-205120-b43v",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 25,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 36,
+        "avgEnemySize": 40
+      }
+    },
     {
       "id": "20260322-203210-hzxq",
       "title": "Deathtrancer, Dtraze, Mesmerizing Roman",
