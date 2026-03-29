@@ -1,7 +1,31 @@
 {
-  "colorPalette": "electric-blue",
+  "colorPalette": "amber-warm",
   "glassSurfaces": false,
   "entries": [
+    {
+      "id": "20260329-203852-5gwp",
+      "title": "Call Me D T, Mesmerizing Roman",
+      "commanders": [
+        "Call Me D T",
+        "Mesmerizing Roman"
+      ],
+      "dateStart": "2026-03-29T12:38:52.000Z",
+      "dateEnd": "2026-03-29T14:20:13.000Z",
+      "dateLabel": "3/29/2026, 8:38:52 PM - 3/29/2026, 10:20:13 PM",
+      "url": "https://Vasheruu.github.io/WvW/?report=20260329-203852-5gwp",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 24,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 42,
+        "avgEnemySize": 47
+      }
+    },
     {
       "id": "20260328-205120-b43v",
       "title": "Dtraze",
