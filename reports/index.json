@@ -3,6 +3,34 @@
   "glassSurfaces": false,
   "entries": [
     {
+      "id": "20260329-230037-hzl0",
+      "title": "Dtraze",
+      "commanders": [
+        "Dtraze"
+      ],
+      "dateStart": "2026-03-29T15:00:37.000Z",
+      "dateEnd": "2026-03-29T16:21:51.000Z",
+      "dateLabel": "3/29/2026, 11:00:37 PM - 3/30/2026, 12:21:51 AM",
+      "url": "https://Vasheruu.github.io/WvW/?report=20260329-230037-hzl0",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 10,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 2,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 28,
+        "avgEnemySize": 36
+      }
+    },
+    {
       "id": "20260329-203852-5gwp",
       "title": "Call Me D T, Mesmerizing Roman",
       "commanders": [
