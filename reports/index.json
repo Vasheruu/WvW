@@ -3,6 +3,30 @@
   "glassSurfaces": false,
   "entries": [
     {
+      "id": "20260330-205254-xlv5",
+      "title": "Amazing Roman, Dtraze",
+      "commanders": [
+        "Amazing Roman",
+        "Dtraze"
+      ],
+      "dateStart": "2026-03-30T12:52:54.000Z",
+      "dateEnd": "2026-03-30T14:13:15.000Z",
+      "dateLabel": "3/30/2026, 8:52:54 PM - 3/30/2026, 10:13:15 PM",
+      "url": "https://Vasheruu.github.io/WvW/?report=20260330-205254-xlv5",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 15,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 42,
+        "avgEnemySize": 39
+      }
+    },
+    {
       "id": "20260329-230037-hzl0",
       "title": "Dtraze",
       "commanders": [
