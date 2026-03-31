@@ -3,6 +3,39 @@
   "glassSurfaces": false,
   "entries": [
     {
+      "id": "20260331-230107-9kfw",
+      "title": "Dirtypotter",
+      "commanders": [
+        "Dirtypotter"
+      ],
+      "dateStart": "2026-03-31T15:01:07.000Z",
+      "dateEnd": "2026-03-31T16:06:56.000Z",
+      "dateLabel": "3/31/2026, 11:01:07 PM - 4/1/2026, 12:06:56 AM",
+      "url": "https://Vasheruu.github.io/WvW/?report=20260331-230107-9kfw",
+      "summary": {
+        "borderlandsPct": 0.875,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 5,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 2,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 1,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 17,
+        "avgEnemySize": 24
+      }
+    },
+    {
       "id": "20260330-205254-xlv5",
       "title": "Amazing Roman, Dtraze",
       "commanders": [
