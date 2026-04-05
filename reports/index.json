@@ -3,6 +3,29 @@
   "glassSurfaces": false,
   "entries": [
     {
+      "id": "20260405-202054-gb3m",
+      "title": "Dtraze",
+      "commanders": [
+        "Dtraze"
+      ],
+      "dateStart": "2026-04-05T12:20:54.000Z",
+      "dateEnd": "2026-04-05T14:00:43.000Z",
+      "dateLabel": "4/5/2026, 8:20:54 PM - 4/5/2026, 10:00:43 PM",
+      "url": "https://Vasheruu.github.io/WvW/?report=20260405-202054-gb3m",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 15,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 41,
+        "avgEnemySize": 43
+      }
+    },
+    {
       "id": "20260401-210921-f018",
       "title": "Dtraze",
       "commanders": [
