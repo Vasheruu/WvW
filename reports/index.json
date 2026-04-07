@@ -3,6 +3,30 @@
   "glassSurfaces": false,
   "entries": [
     {
+      "id": "20260407-210353-wewu",
+      "title": "Dtraze, Incredible Don",
+      "commanders": [
+        "Dtraze",
+        "Incredible Don"
+      ],
+      "dateStart": "2026-04-07T13:03:53.000Z",
+      "dateEnd": "2026-04-07T14:23:11.000Z",
+      "dateLabel": "4/7/2026, 9:03:53 PM - 4/7/2026, 10:23:11 PM",
+      "url": "https://Vasheruu.github.io/WvW/?report=20260407-210353-wewu",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 15,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 47,
+        "avgEnemySize": 45
+      }
+    },
+    {
       "id": "20260405-202054-gb3m",
       "title": "Dtraze",
       "commanders": [
